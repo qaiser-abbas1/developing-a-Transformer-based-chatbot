@@ -1,1 +1,3 @@
 # developing-a-Transformer-based-chatbot
+This project focuses on designing and developing a Transformer-based chatbot capable of engaging in conversations on specific topics. Using the Topical Chat dataset from Amazon, the chatbot is fine-tuned to generate contextually relevant and sentiment-aware responses. The implementation employs Huggingface's pre-trained models, TensorFlow, and Google Colab. Evaluation metrics include response accuracy, F1 score, sentiment alignment, and user satisfaction. The chatbot achieves significant performance while highlighting areas for further improvement, such as handling ambiguous queries and enhancing response diversity.
+
